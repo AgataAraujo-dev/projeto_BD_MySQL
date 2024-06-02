@@ -42,7 +42,7 @@
 <a id="ancora2"></a>
 [voltar](#ancora)
 
-![diagrama_projeto_BD]([https://github.com/AgataAraujo-dev/projeto_BD_MySQL/blob/6d6de76c445b49ee8e297545d8c4e5b6e080faa3/diagrama_projeto_BD.png])
+![diagrama_projeto_BD]([https://github.com/AgataAraujo-dev/projeto_BD_MySQL/blob/main/diagrama_projeto_BD.png])
 
 
 ## Script SQL para criação do esquema do banco de dados.
