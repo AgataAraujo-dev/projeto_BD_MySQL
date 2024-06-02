@@ -42,7 +42,7 @@
 <a id="ancora2"></a>
 [voltar](#ancora)
 
-![diagrama_projeto_BD]([./projeto_BD_MySQL/Projeto_de_BD_diagrama.mwb)
+![diagrama_projeto_BD](../projeto_BD_MySQL/Projeto_de_BD_diagrama.mwb)
 
 
 ## Script SQL para criação do esquema do banco de dados.
